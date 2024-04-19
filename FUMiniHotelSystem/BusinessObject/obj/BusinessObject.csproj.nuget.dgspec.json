@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {}
+    "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {}
   },
   "projects": {
-    "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",

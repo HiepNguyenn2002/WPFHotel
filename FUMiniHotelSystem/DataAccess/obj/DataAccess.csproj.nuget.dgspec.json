@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {}
+    "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {}
   },
   "projects": {
-    "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
         "projectName": "BusinessObject",
-        "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -84,14 +84,14 @@
         }
       }
     },
-    "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {
+    "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
         "projectName": "DataAccess",
-        "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
+        "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -108,8 +108,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
-                "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+              "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+                "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
               }
             }
           }

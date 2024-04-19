@@ -21,7 +21,7 @@
                             HorizontalAlignment="Center" Width="500" Height="200">
 
                         <Label Name="lbTitle" Foreground="Red" FontWeight="DemiBold" HorizontalAlignment="Center"
-                           FontSize="20" Content="Welcome Our Hotel"/>
+                           FontSize="20" Content="Login Page"/>
 
                         <Label Width="400" Content="Email"/>
                         <TextBox Name="email" HorizontalAlignment="Stretch"

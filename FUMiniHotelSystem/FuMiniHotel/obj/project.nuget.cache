@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "gDiqskI5HJRjpfOF+XcJrSbrc33LAmQt58QufonJTUHDh7Szpy/rwuwmJ83vI1sfn6EdTfoMk+WVLzuw1KlOyg==",
+  "dgSpecHash": "ZsrYHIlGV1ZE3MD3abPAMlMKL2IjOuYyXumbVs2PTpmnhYBhRLZi813afiKMrSKX2I9E9n/lzJ0Mq3uPAdCyYw==",
   "success": true,
-  "projectFilePath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
+  "projectFilePath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\ASUS\\.nuget\\packages\\microsoft.data.sqlclient\\2.1.4\\microsoft.data.sqlclient.2.1.4.nupkg.sha512",

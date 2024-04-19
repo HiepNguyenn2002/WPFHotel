@@ -2322,11 +2322,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
+      "projectUniqueName": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
       "projectName": "FuMiniHotel",
-      "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
+      "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\FuMiniHotel\\FuMiniHotel.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\FuMiniHotel\\obj\\",
+      "outputPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\FuMiniHotel\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ASUS\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -2343,11 +2343,11 @@
         "net6.0-windows7.0": {
           "targetAlias": "net6.0-windows",
           "projectReferences": {
-            "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
-              "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
+            "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\BusinessObject\\BusinessObject.csproj"
             },
-            "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {
-              "projectPath": "D:\\PRN221\\Asm1\\HotelWPF\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj"
+            "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj": {
+              "projectPath": "C:\\Users\\ASUS\\Downloads\\HotelWPF-main (1)\\HotelWPF-main\\FUMiniHotelSystem\\DataAccess\\DataAccess.csproj"
             }
           }
         }
